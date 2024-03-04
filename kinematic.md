@@ -10,7 +10,7 @@
 * Motion in 1 Dimension (1D) is the motion on a straight line.
 * Motion in 2 Dimension (2D) is the motion on a plane.
 
-## Posiotion and Displacement
+## Position and Displacement
 
 * **Position** is measured in reference to the coordination system and get the numerical value of $x$.
 * The **displacement** of an object is defined as its change in position and is given by $\Delta = x_f - x_i$, where $x_f$ is the final known position and $x_i$ is the initial position.
@@ -51,7 +51,9 @@ $$a = \lim_{\Delta t \to 0}\frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$
 
 ### Motion with Constant Acceleration
 
-* The velocity of motion with constant acceleration can be describes as:
+The motion with constant acceleration can be describes as:
+
+* The first equation of motion relates to velocity to time:
 
 > <details>    
 >   $$a = \frac{dv}{dt} \Rightarrow dv = adt$$
@@ -63,7 +65,7 @@ $$a = \lim_{\Delta t \to 0}\frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$
 
 $$v = v_0 + at$$ 
 
-* Similarly, the displacement:
+* Similarly, The second equation of motion relates to position to time:
 
 > <details>
 >   $$v = \frac{dx}{dt} \Rightarrow dx = (v)dt = (v_0 + at)dt$$
@@ -74,12 +76,18 @@ $$v = v_0 + at$$
 > </details>
 $$x = x_0 + v_0 t + \frac{1}{2}at^2$$
 
-* Equation of velocity independent to time $(t)$:
+* The third equation of motion relates to velocity to position: 
+
+> <details>
+> $$\frac{dv}{ds} = \frac{dv}{ds} \frac{dt}{dt} = \frac{dv}{dt} \frac{dt}{ds} = a \frac{1}{v}$$
+> 
+> $$v dv = a ds \Rightarrow \int_{v_0}^{v}v dv = \int_{x_0}^{x}a ds \Rightarrow \frac{1}{2} (v^2 - v^2_0) = a(s - s_0)$$
+> </details>
 
 $$v^2 = v^2_0 + 2a(x - x_0)$$
 
 ### Free Fall
 
-* **Free falling motion** is the motion of an object moving under the influence of gravity only and no other forces (the air resistance if negligible).
+* **Free falling motion** is the motion of an object moving under the influence of gravity only and no other forces (the air resistance if negligible) .
 
 * Object in free fall experiences a constant downwared accelerarion of magnitude $g = 9.8 m/s^2$
