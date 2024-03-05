@@ -1,5 +1,8 @@
 # Kinematics
 
+> [!IMPORTANT]
+> See [Vector revision](vectors.md) to review on vectors!
+
 ## Kinematics and Dynamics
 
 * The study describes motion without regard to its cause is called **kinematics**
