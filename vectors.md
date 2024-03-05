@@ -28,23 +28,23 @@
     <IMG src="./assets/vectors/example31.jpg" alt="example31" width=100%/>
 </details>
 
-* The x-component vector is parallel to the y-axis
-* THe y-component vector is parallel to the x-axis
+* The x-component vector is parallel to the y-axis, is also the adjacent site so use $cos(\theta)$
 
-> [!TIP]
+* The y-component vector is parallel to the x-axis, is also the opposite site so use $sin(\theta)$
+
+> [!NOTE]
+> The components are the sides of a right triangle with *hypotenuse* A and angle $\theta$ 
+>
 > <details>
 > <IMG src="./assets/vectors/examples32.jpg" alt="example41" width=100%/>
 > </details>
->
-> The components are the sides of a right thriangle with *hypotenuse* A and angle $\Theta$ 
-> * The y-component is the opposite site so use $sin(\Theta)$
-> * The x-component is the adjacent site so use $cos(\Theta)$
+
 
 ### Magnitude and Direction
 
 * If the components are known, magnitude and angle can be calculate using
   * **Magnitude**: $$A = \sqrt{A_x^2 + A_y^2}$$
-  * **Angle**: $$\Theta = \tan^-1{\left( \frac{A_y}{A_x} \right)}$$
+  * **Angle**: $$\theta = \tan^-1{\left( \frac{A_y}{A_x} \right)}$$
 
 ## Vector Operations
 
