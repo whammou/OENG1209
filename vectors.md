@@ -3,7 +3,7 @@
 ## Vector Definition
 
 <details>
-  <IMG src="./assets/vectors/example11.jpg" alt="example11" width=80%/>
+  <IMG src="./assets/vectors/example11.jpg" alt="example11" width=100%/>
 </details>
 
 
@@ -14,8 +14,8 @@
 ## Unit Vector
 
 <details>
-  <IMG src="./assets/vectors/example21.jpg" alt="Examples21" width=70%/>
-  <IMG src="./assets/vectors/example22.jpg" alt="Example22" width=70%/>
+  <IMG src="./assets/vectors/example21.jpg" alt="Examples21" width=100%/>
+  <IMG src="./assets/vectors/example22.jpg" alt="Example22" width=100%/>
 </details>
 
 * Unit vector is a vector which has a magnitude of 1
@@ -25,7 +25,7 @@
 ### Components
 
 <details>
-    <IMG src="./assets/vectors/example31.jpg" alt="example31" width=70%/>
+    <IMG src="./assets/vectors/example31.jpg" alt="example31" width=100%/>
 </details>
 
 * The x-component vector is parallel to the y-axis
@@ -33,7 +33,7 @@
 
 > [!TIP]
 > <details>
-> <IMG src="./assets/vectors/examples32.jpg" alt="example41" width=70%/>
+> <IMG src="./assets/vectors/examples32.jpg" alt="example41" width=100%/>
 > </details>
 >
 > The components are the sides of a right thriangle with *hypotenuse* A and angle $\Theta$ 
@@ -53,7 +53,7 @@
 Graphical representation of vector operations:
 
 <details>
-    <IMG src="./assets/vectors/example41.jpg" alt="example41" width=70%/>
+    <IMG src="./assets/vectors/example41.jpg" alt="example41" width=100%/>
 </details>
 
 ### Algebraical
