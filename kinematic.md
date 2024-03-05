@@ -92,5 +92,7 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 ### Free Fall
 
 * **Free falling motion** is the motion of an object moving under the influence of gravity only and no other forces (the air resistance if negligible) .
-
 * Object in free fall experiences a constant downwared accelerarion of magnitude $g = 9.8 m/s^2$
+
+> [!TIP]
+> To calculate free fall motion [equation3](#motion-with-constant-acceleration) becomes very useful
