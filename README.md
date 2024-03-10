@@ -4,7 +4,7 @@
 
 Lecure notes from OENG1209, taught by Prof. Minh Quang Tran. This course introduces students to the scientific principles that enable engineering applications. Key topics include:
 
-* Topic 1 [Kinematics](kinematic.md): Discuss and apply key laws of kinematics to motions. Calculate key paramenters of motions: Displacement, Velocity, and Acceleration in 2 dimension.
+* Topic 1 **Kinematics** [[1]](kinematic.md) [[2]](motion2d.md): Discuss and apply key laws of kinematics to motions. Calculate key paramenters of motions: Displacement, Velocity, and Acceleration in 2 dimension.
 
 * Topic 2 [Dynamics](dynamics.md): Draw simple free-body diagrams. Analyse resultant forces. Calculate specific action and reaction forces.
 
@@ -24,6 +24,14 @@ Lecure notes from OENG1209, taught by Prof. Minh Quang Tran. This course introdu
 
 
 ## Lab
+
+* Kinematics - Motion in 1D [assign] [[1]](https://mega.nz/file/yCogBBJK#jdrRs7GpS_5rDYSjG8AOWtA-YFueTtdfPyohmByOmd0) [[2]](https://mega.nz/file/Hf4TWYoK#G7NlMUTmVPqxZqqnuAeD_ts8t5Hs9XlFZfpVPOp7Fu4)
+
+## Resources
+
+* Chapter 1, 2 in [University Physics (OpenStax)](https://openstax.org/books/university-physics-volume-1/pages/1-introduction)
+
+* Chapter 4 in [Physics for Scientists and Engineers with Modern Physics](https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=4787791&ppg=113)
 
 ## Assessments
 |  Date      |    Details       |  Due   	|
