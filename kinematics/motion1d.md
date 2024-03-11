@@ -26,7 +26,7 @@
 
 ## Velocity and Speed
 
-* **Velocity** is definied as change of displacement over time. Velocity could be positive or negative.
+* **Velocity** is defined as change of displacement over time. Velocity could be positive or negative.
 * **Speed** is defined as change of *distance* over time. Speed is always positive.
 
 ### Velocity
@@ -37,16 +37,16 @@
 $$\vec{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
 
 > [!NOTE]
-> **Average veocity** does *NOT* take into account the details of what happens during the interval of time.
+> **Average velocity** does *NOT* take into account the details of what happens during the interval of time.
 
 #### Instantaneous Velocity
 
-* **Instantaneous velocity** is the limit of the average velocity as the time interval becomes infinitestimally small as definied: 
+* **Instantaneous velocity** is the limit of the average velocity as the time interval becomes infinitestimally small as defined: 
 $$v = \lim_{\Delta t \to 0}\frac{\Delta x}{\Delta t} = \frac{dx}{dt}$$
 
 ## Acceleration
 
-* **Acceleration** could be difined as the change of velocity over time.
+* **Acceleration** could be defined as the change of velocity over time.
 * **Average Acceleration** is defined as
 $$\vec{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i}$$
 * and **Instantaneous Acceleration** is defined as:
@@ -91,11 +91,7 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 
 ## Free Fall
 
-* **Free falling motion** is the motion of an object moving under the influence of gravity only and no other forces (the air resistance if negligible) .
-* Object in free fall experiences a constant downwared accelerarion of magnitude $g = 9.8 m/s^2$
-
-> [!TIP]
-> To calculate free fall motion [equation3](#motion-with-constant-acceleration) becomes very useful
+Visit [Special types of Motion](special.md)
 
 ## Additional Materials
 
