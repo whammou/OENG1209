@@ -4,7 +4,7 @@
 
 By looking separately at the motions along two perpendicular aces the $y$-direction and $x$-direction. Each component becomes a one-dimensional problems.
 
-<IMG src="../assets/motion2d/example11.jpg" alt="example11" width=100%/>
+<IMG src="./assets/motion2d/example11.jpg" alt="example11" width=100%/>
 
 ## Position and Displacement Vectors
 
@@ -22,7 +22,7 @@ $$x = x(t) \text{ and } y =y(t)$$
 
 ### Instantaneous Velocity
 
-* **Instantaneous Velocity** can be calculated using the [derivative](./motion1d.md#Instantaneous-velocity) of the position function with respect to time. The same can be applied in higher dimensions.
+* **Instantaneous Velocity** can be calculated using the [derivative](./kinematics-motion1d.md#instantaneous-velocity) of the position function with respect to time. The same can be applied in higher dimensions.
 $$\vec{v}(t) = \lim_{\Delta t \to 0} \frac{\vec{r}(t + \Delta t) - \vec{r}(t)}{\Delta t} = \frac{d \vec{r}}{dt}$$
 * Writing in term of components of $\vec{v}(t)$, since:
 $$\vec{v}(t) = v_x (t) \vec{i} + v_y (t) \vec{j}$$
@@ -36,7 +36,7 @@ $$\vec{v}_{avg} = \frac{\vec{r}(t2) - \vec{r}(t1)}{t_2 - t_1}$$
 
 ## Acceleration Vector
 
-* **Instantaneous Acceleration** can be obtained from the [derivarive](./motion1d.md#acceleration) with respect to time of the velocity:
+* **Instantaneous Acceleration** can be obtained from the [derivarive](./kinematics-motion1d.md#acceleration) with respect to time of the velocity:
 $$\vec{a}(t) = \lim_{t \to 0} \frac{\vec{v}(t + \Delta t) - \vec{v}(t)}{\Delta t} = \frac{d \vec{v}(t)}{dt}$$
 * Writing in term of components of $a(t)$, since:
 $$\vec{a}(t) = \frac{d v_x(t)}{dt} \vec{i} + \frac{d v_y(t)}{dt} \vec{j}$$
@@ -45,7 +45,7 @@ $$\vec{a}(t) = \frac{d^2 x(t)}{dt} \vec{i} + \frac{d^2 y(t)}{dt} \vec{j}$$
 
 ## 2D Motion with Constant Acceleration
 
-As we separate the term of $x \text{ and } y$ the motion with constant acceleration in 2D is therefore similar to the same motion in [1D](./motion1d.md#motion-with-constant-acceleration)
+As we separate the term of $x \text{ and } y$ the motion with constant acceleration in 2D is therefore similar to the same motion in [1D](./kinematics-motion1d.md#motion-with-constant-acceleration)
 
 
 > <details>
