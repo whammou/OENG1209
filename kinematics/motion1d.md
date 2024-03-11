@@ -1,7 +1,7 @@
 # Kinematics
 
 > [!IMPORTANT]
-> See [Vector revision](vectors.md) to review on vectors!
+> See [Vector revision](../vectors.md) to review on vectors!
 
 ## Kinematics and Dynamics
 
@@ -91,7 +91,7 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 
 ## Free Fall
 
-Visit [Special types of Motion](special.md)
+Visit [Special types of Motion](./special.md)
 
 ## Additional Materials
 

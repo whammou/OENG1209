@@ -2,7 +2,7 @@
 
 ## Free Fall
 
-<IMG src="./assets/special/example11.jpg" alt="example11" width=100%/>
+<IMG src="../assets/special/example11.jpg" alt="example11" width=100%/>
 
 * **Free falling motion** is the motion of an object moving under the influence of gravity only and no other forces (the air resistance if negligible) .
 * Object in free fall experiences a constant downwards acceleration of magnitude $g = 9.8 m/s^2$
@@ -12,7 +12,7 @@
 
 ## Projectile Motion
 
-<IMG src="./assets/special/example12.jpg" alt="example12" width=100%/>
+<IMG src="../assets/special/example12.jpg" alt="example12" width=100%/>
 
 * **Projectile Motion** is also the motion of an object moving under the influence of gravity only.
 * The $y$-component is experiencing [Free Fall motion](#free-fall).
@@ -23,6 +23,6 @@
 
 ## Relative Motion
 
-<IMG src="./assets/special/example13.jpg" alt="example12" width=100%/>
+<IMG src="../assets/special/example13.jpg" alt="example12" width=100%/>
 
 
