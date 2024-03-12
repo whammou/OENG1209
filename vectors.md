@@ -2,9 +2,9 @@
 
 ## Vector Definition
 
-<details>
-  <IMG src="./assets/vectors/example11.jpg" alt="example11" width=100%/>
-</details>
+> <details>
+>   <IMG src="./assets/vectors/example11.jpg" alt="example11" width=100%/>
+> </details>
 
 
 * Length of the arrow represents magnitude
@@ -13,20 +13,36 @@
 
 ## Unit Vector
 
-<details>
-  <IMG src="./assets/vectors/example21.jpg" alt="Examples21" width=100%/>
-  <IMG src="./assets/vectors/example22.jpg" alt="Example22" width=100%/>
-</details>
+> <details>
+>   <IMG src="./assets/vectors/example21.jpg" alt="Examples21" width=100%/>
+>   <IMG src="./assets/vectors/example22.jpg" alt="Example22" width=100%/>
+> </details>
 
 * Unit vector is a vector which has a magnitude of 1
+* Angle $\theta$ can be calculated using `:` $\theta = \arctan \left( \frac{y}{x} \right)$
+
+<p align="center">
+  <IMG src="./assets/vectors/unit-circle.jpg" alt="univircle" width=75%/>
+</p>
+
+### Angle Measurement Conventions
+
+* Angles measured *anti-clockwise* from the positive $x$-axis are positive
+* Angles measured *clockwise* from the positive $x$-axis are negative
+
+> $$\cos -45\textdegree = \cos 45\textdegree$$
+> 
+> $$\sin -45\textdegree = - \sin 45\textdegree$$
+> 
+> $$\tan -45\textdegree = \frac{\sin -45\textdegree}{\cos -45\textdegree} = - \frac{\sin 45\textdegree}{\cos 45\textdegree} = - \tan 45\textdegree$$
 
 ## Vector Components
 
 ### Components
 
-<details>
-    <IMG src="./assets/vectors/example31.jpg" alt="example31" width=100%/>
-</details>
+> <details>
+>     <IMG src="./assets/vectors/example31.jpg" alt="example31" width=100%/>
+> </details>
 
 * The x-component vector is parallel to the y-axis, is also the adjacent site so use $cos(\theta)$
 
@@ -52,9 +68,9 @@
 
 Graphical representation of vector operations:
 
-<details>
-    <IMG src="./assets/vectors/example41.jpg" alt="example41" width=100%/>
-</details>
+> <details>
+>     <IMG src="./assets/vectors/example41.jpg" alt="example41" width=100%/>
+> </details>
 
 ### Algebraical
 
