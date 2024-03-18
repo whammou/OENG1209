@@ -62,6 +62,10 @@ As we separate the term of $x \text{ and } y$ the motion with constant accelerat
 >     $$v^2_y = v^2_0y + 2a_y \Delta x$$
 > </details>
 
+## Course Resources
+
+* [Lecture Slides](https://mega.nz/file/nXJ31a7A#dW6DQpwrhwBHhN-YQ1jZdd8ZNTGTuf2aQGbpjaj_-Ag)
+
 ## Additional Material
 
 1. [Derivative](https://youtu.be/ObHJJYvu3RE)

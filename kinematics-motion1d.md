@@ -93,7 +93,13 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 
 Visit [Special types of Motion](./kinematics-special.md)
 
+## Course Resources
+
+* [Lecture Slides](https://mega.nz/file/HDZTwBZT#_lIg68LlB930ef3gzGdeENu4eO8KqEZgx-HQ32IPCOQ)
+
 ## Additional Materials
 
 1. [Crash Course Physics Preview](https://youtu.be/OoO5d5P0Jn4)
 2. [Motion in a Straight Line](https://youtu.be/ZM8ECpBuQYE)
+
+
