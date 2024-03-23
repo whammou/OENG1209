@@ -4,31 +4,31 @@
 
 Lecure notes from OENG1209, taught by Prof. Minh Quang Tran. This course introduces students to the scientific principles that enable engineering applications. Key topics include:
 
-* Topic 1 **Kinematics**: Discuss and apply key laws of kinematics to motions. Calculate key paramenters of motions: Displacement, Velocity, and Acceleration in 2 dimension.
-  * [Motion in 1D](./kinematics-motion1d.md): Motion in a straight line
-  * [Motion in 2D](./kinematics-motion2d.md): Motion in a plane
-  * [Special Motion](./kinematics-special.md): Special types of motion
+* Lecture 1 [Motions](./w1-motion1d.md): Introduction to the course and discuss and get used to motion in a straight line.
 
-* Topic 2 [Dynamics](dynamics.md): Draw simple free-body diagrams. Analyse resultant forces. Calculate specific action and reaction forces.
+* Lecture 2 [Kinematics](./w2-motion2d.md): Discuss and apply key laws of kinematics to motions. Calculate key paramenters of motions: Displacement, Velocity, and Acceleration in 2 dimension.
 
-* Topic 3 [Circular Motion](circular.md): Equations of motion for rotation motion. Determine and calculate all relevant characteristics of rotation motion. Analyse dynamic characteristics of rotation motion.
+* Lecture 3 [Dynamics](./w3-dynamics.md): Draw simple free-body diagrams. Analyse resultant forces. Calculate specific action and reaction forces.
 
-* Topic 4 [Work and Energy](work.md): Analyse the applications and limitations of the key conservation laws. Analyse total momentim of a system. Apply differential version of Newton's secon Law. Discuss and apply Energy conservation law.
+* Lecture 4 [Circular Motion](circular.md): Equations of motion for rotation motion. Determine and calculate all relevant characteristics of rotation motion. Analyse dynamic characteristics of rotation motion.
 
-* Topic 5 [Momentum](momentum.md): Analyse the applications and limitations of the key conservation law. Analyse total momentum of a system. Apply differential version of Newton's Second Law.
+* Lecture 5 [Work and Energy](work.md): Analyse the applications and limitations of the key conservation laws. Analyse total momentim of a system. Apply differential version of Newton's secon Law. Discuss and apply Energy conservation law.
 
-* Topic 6 [Electric Field](electric.md): Discuss and Analyse paramenters of electric field. Discuss and analyse energy-based paramenters of electric field. Analyse interaction between electric charges. Analyse engineering applications of electric field theory.
+* Lecture 7 [Momentum](momentum.md): Analyse the applications and limitations of the key conservation law. Analyse total momentum of a system. Apply differential version of Newton's Second Law.
 
-* Topic 7 [Magnetic Field](magnetic.md): Calculate relevant interaction between magnetic field and electric chrages. Calculate key characteristics of magnetic field. Determine the impacts of electric field on magnetic field.
+* Lecture 8 [Electric Field](electric.md): Discuss and Analyse paramenters of electric field. Discuss and analyse energy-based paramenters of electric field. Analyse interaction between electric charges. Analyse engineering applications of electric field theory.
 
-* Topic 8 [Electromagnetic Induction](electromagnetic.md): Discuss the key laws of electromagnetic theory. Analyse any relevant problems concerning electromagnetic field and energy.
+* Lecture 9 [Magnetic Field](magnetic.md): Calculate relevant interaction between magnetic field and electric chrages. Calculate key characteristics of magnetic field. Determine the impacts of electric field on magnetic field.
 
-* Topic 9 [Oscillations and Waves](oscillations.md):Analyse key paramenters of mechanical and electromagnetic oscillations. Discuss the differences betwwen waves. Analyse the propagation of electromagnetic waves. Analyse engineering applications of these theries.
+* Lecture 10 [Electromagnetic Induction](electromagnetic.md): Discuss the key laws of electromagnetic theory. Analyse any relevant problems concerning electromagnetic field and energy.
+
+* Lecture 11 [Oscillations and Waves](oscillations.md):Analyse key paramenters of mechanical and electromagnetic oscillations. Discuss the differences betwwen waves. Analyse the propagation of electromagnetic waves. Analyse engineering applications of these theries.
 
 
 ## Lab
 
-* Kinematics - Motion in 1D [assign] [[1]](https://mega.nz/file/yCogBBJK#jdrRs7GpS_5rDYSjG8AOWtA-YFueTtdfPyohmByOmd0) [[2]](https://mega.nz/file/Hf4TWYoK#G7NlMUTmVPqxZqqnuAeD_ts8t5Hs9XlFZfpVPOp7Fu4)
+* Kinematics - Motion in 1D \[assign\] [[1]](https://mega.nz/file/yCogBBJK#jdrRs7GpS_5rDYSjG8AOWtA-YFueTtdfPyohmByOmd0) [[2]](https://mega.nz/file/Hf4TWYoK#G7NlMUTmVPqxZqqnuAeD_ts8t5Hs9XlFZfpVPOp7Fu4)
+* Dynamics - Newton's Laws of Motion \[assign\] [[1]](https://mega.nz/file/KPgmSRKR#h3xvo33fyEYLXGjty5jDsQZNJi9TbEafDYEO7hrZ5wU) [[2]](https://mega.nz/file/6eZkkDjK#2PZRUROtz5ByElMDxuNRk0jmCNNT77cnnIXy2Y4jPd4)
 
 ## Resources
 

@@ -87,17 +87,36 @@ $$F_g = G \frac{m_1 m_2}{r^2} \text{  with  } G = 6.67 \times 10^{-11} N \cdot m
 
 ### Contact Force
 
-* __A contact force__ perpendicular to the `contact surface` that prevents two solid objects from passing through one another is called the _normal force_ (in geometry the word _normal_ means _perpendicular_)
-* A contact force _parallel_ to the `contact surface` is called __friction__. There are two types of friction `static` and `kinetic` (or sliding) friction
-  * When NO _slipping_ or _sliding_ occurs, the friction is called __static__
-    * _Static friction acts to try to __prevent__ object from starting to slide_
-  * When _slipping_ or _sliding_ occurs, the friction is called __kinetic__
-    * _kinetic friction acts to try to __make__ object slide_
-  * __Maximmum force od static friction__ with the `coefficient` of static friction is a dimensionless number:
+__A contact force__ perpendicular to the `contact surface` that prevents two solid objects from passing through one another is called the _normal force_ (in geometry the word _normal_ means _perpendicular_)
+
+#### Friction
+
+A contact force _parallel_ to the `contact surface` is called __friction__. There are two types of friction `static` and `kinetic` (or sliding) friction
+
+##### Static Friction
+
+* When NO _slipping_ or _sliding_ occurs, the friction is called __static__
+  * _Static friction acts to try to __prevent__ object from starting to slide_
+* __Maximmum force od static friction__ with the `coefficient` of static friction is a dimensionless number:
 
   $$\mathord{\mathit{f_s}} \le \mu_s n \text{  and  } \mathord{\mathit{f_{s, max}}} = \mu_s N$$
-  
-  * __Force of kinetic friction__ with the `coefficient` of kinetic friction is a dimensionless number
+
+###### Kinetic Friction
+
+* When _slipping_ or _sliding_ occurs, the friction is called __kinetic__
+  * _kinetic friction acts to try to __make__ object slide_
+* __Force of kinetic friction__ with the `coefficient` of kinetic friction is a dimensionless number
 
   $$\mathord{\mathit{f_k}} = \mu_k N$$
 
+## Course ressources
+
+* [Lecture Slides](https://mega.nz/file/TSI3BarR#lCuPq0EoAMSdZH73XAhKyUIvwNqDB27LUOze5RVO_F4)
+
+## Aditional resources
+
+* Reading resources
+  * [Physics for scientists and engineers with modern physics](https://rmitlibraryvn.rmit.edu.vn/permalink/84RVI_INST/1kigfja/alma991001154609006821)
+  * [OpenStax](https://collection.bccampus.ca/textbooks/university-physics-353/)
+* Video resources
+  [Newton's Law of Motion](https://youtu.be/kKKM8Y-u7ds)

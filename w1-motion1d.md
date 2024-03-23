@@ -6,7 +6,7 @@
 ## Kinematics and Dynamics
 
 * The study describes motion without regard to its cause is called **kinematics**
-* The study fo motion and of of physical concepts such as force and mass is called **dynamics**
+* The study of motion and of of physical concepts such as force and mass is called **dynamics**
 
 ## Motion in One and Two Dimension
 
@@ -19,7 +19,7 @@
 * The **displacement** of an object is defined as its change in position and is given by $\Delta = x_f - x_i$, where $x_f$ is the final known position and $x_i$ is the initial position.
 
 > [!TIP]
-> **Displacement** could be negative ot positive and displacement is *NOT* the same as distance traveled.
+> **Displacement** could be negative or positive and displacement is *NOT* the same as distance traveled.
 
 > [!NOTE]
 > **Notation** : $x(t)$ is the location of particle/object as a function of time and the initial position is noted as $x_0 = x(t_0), t_0$ is usually selected as $t_0 = 0$.
@@ -41,7 +41,7 @@ $$\vec{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
 
 #### Instantaneous Velocity
 
-* **Instantaneous velocity** is the limit of the average velocity as the time interval becomes infinitestimally small as defined: 
+* **Instantaneous velocity** is the limit of the average velocity as the time interval becomes infinitesimally small as defined: 
 $$v = \lim_{\Delta t \to 0}\frac{\Delta x}{\Delta t} = \frac{dx}{dt}$$
 
 ## Acceleration
@@ -91,7 +91,7 @@ $$v^2 = v^2_0 + 2a(x - x_0)$$
 
 ## Free Fall
 
-Visit [Special types of Motion](./kinematics-special.md)
+Visit [Special types of Motion](./specialmotion.md)
 
 ## Course Resources
 
