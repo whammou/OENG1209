@@ -10,7 +10,7 @@ Lecure notes from OENG1209, taught by Prof. Minh Quang Tran. This course introdu
 
 * Lecture 3 [Dynamics](./w3-dynamics.md): Draw simple free-body diagrams. Analyse resultant forces. Calculate specific action and reaction forces.
 
-* Lecture 4 [Circular Motion](circular.md): Equations of motion for rotation motion. Determine and calculate all relevant characteristics of rotation motion. Analyse dynamic characteristics of rotation motion.
+* Lecture 4 [Circular Motion](./w4-circular.md): Equations of motion for rotation motion. Determine and calculate all relevant characteristics of rotation motion. Analyse dynamic characteristics of rotation motion.
 
 * Lecture 5 [Work and Energy](work.md): Analyse the applications and limitations of the key conservation laws. Analyse total momentim of a system. Apply differential version of Newton's secon Law. Discuss and apply Energy conservation law.
 
