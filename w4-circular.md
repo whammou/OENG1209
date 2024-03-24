@@ -26,7 +26,7 @@ $$\Delta \theta = \theta_f - \theta_i$$
 
 * The `average angular velocity` is the average rate of change of the angular displacement 
 
-$$\omega_{av} = \frac{\theta_f - theta_i}{t_f - t_i} = \frac{\Delta \theta}{\Delta t}$$
+$$\omega_{av} = \frac{\theta_f - \theta_i}{t_f - t_i} = \frac{\Delta \theta}{\Delta t}$$
 
 * If we let the time interval \Delta t become shorter and shorter, we are averaging over smaller and smaller time intervals, then the average angular velocity becomes the `instataneous angular velocity`
 
