@@ -111,7 +111,7 @@ $$\alpha_t = r \alpha$$
       * `=>`the two triangles are _isosceles_ 
 
 <p align="center">
- <IMG src="./assets/w4-circular/example43.jpg" alt="proof" width=70%/> 
+ <IMG src="https://github.com/whammou/OENG1209/blob/main/assets/w4-circular/example43.jpg" alt="proof" width=70%/> 
 </p>
 
   Thus,
@@ -139,3 +139,18 @@ $$a = \sqrt{a^2_t + a^2_c}$$
 <p align="center">
   <IMG src="./assets/w4-circular/example42.jpg" alt="centripetal force" width=50%/>
 </p>
+
+## Course Resources
+
+* __Lecture Slides__
+  1. [Circular Motion](https://mega.nz/file/bSoRWbgJ#ifyBIVGMqXRal9JgcyMMlA8-7AjODqh2XUfPvLnG0KI)
+
+## Additional Resources
+
+* __Reading Resources__
+  1. [OpenStax](https://collection.bccampus.ca/textbooks/university-physics-353/)
+  2. [Physics for scientiests and engineering with modern physics](https://rmitlibraryvn.rmit.edu.vn/permalink/84RVI_INST/1kigfja/alma991001154609006821)
+
+* __Watching Resources__
+  1. [Uniform Circular Motion](https://youtu.be/bpFK2VCRHUs)
+  2. [Rotational Motion](https://youtu.be/fmXFWi-WfyU)
