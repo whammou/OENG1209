@@ -97,7 +97,7 @@ A contact force _parallel_ to the `contact surface` is called __friction__. Ther
 
 * When NO _slipping_ or _sliding_ occurs, the friction is called __static__
   * _Static friction acts to try to __prevent__ object from starting to slide_
-* __Maximmum force od static friction__ with the `coefficient` of static friction is a dimensionless number:
+* __Maximum force of static friction__ with the `coefficient` of static friction is a dimensionless number:
 
   $$\mathord{\mathit{f_s}} \le \mu_s n \text{  and  } \mathord{\mathit{f_{s, max}}} = \mu_s N$$
 
