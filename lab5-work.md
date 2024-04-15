@@ -10,7 +10,7 @@
 
   <IMG src="./assets/w5-work/lab11.jpg" alt="wok" width=100%/>
 
-  2. How much work does he do on the sled of $\theta = 30 \textdegree $ and he pulls the sled the same distance
+  2. How much work does he do on the sled of theta = 30 and he pulls the sled the same distance
 
   <IMG src="./assets/w5-work/lab12.jpg" alt="work" width=100%/>
 
@@ -26,5 +26,5 @@
 
   <IMG src="./assets/w5-work/lab21.jpg" alt="work" width=100%/>
 
-  2. Repeat the calculation at angle of $30 \textdegree$
+  2. Repeat the calculation at angle of 30 degree
 

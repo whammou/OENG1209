@@ -14,7 +14,7 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 
 * Lecture 5 [Work and Energy](./w5-work.md): Analyse the applications and limitations of the key conservation laws. Analyse total momentum of a system. Apply differential version of Newton's second Law. Discuss and apply Energy conservation law.
 
-* Lecture 7 [Momentum](momentum.md): Analyse the applications and limitations of the key conservation law. Analyse total momentum of a system. Apply differential version of Newton's Second Law.
+* Lecture 7 [Momentum](./w7-momentum.md): Analyse the applications and limitations of the key conservation law. Analyse total momentum of a system. Apply differential version of Newton's Second Law.
 
 * Lecture 8 [Electric Field](electric.md): Discuss and Analyse parameters of electric field. Discuss and analyse energy-based parameters of electric field. Analyse interaction between electric charges. Analyse engineering applications of electric field theory.
 
