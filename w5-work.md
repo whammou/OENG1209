@@ -110,9 +110,9 @@ The `spring force` is conservative, and its `potential energy` is given by:
 
 $$PE_s = \frac{1}{2} kx^2$$
 
-Equilibrium | Compressed / released 
-------------|----------------------
-<IMG src="./assets/w5-work/31.jpg" alt="potential" width=90%/> | <IMG src="./assets/w5-work/32.jpg" alt="spring" width=60%/>
+| Equilibrium                                                      | Compressed                                                      | 
+|:-----------------------------------------------------------------|:----------------------------------------------------------------|
+| <IMG src="./assets/w5-work/31.jpg" alt="equilibrium" width=90%/> | <IMG src="./assets/w5-work/32.jpg" alt="compressed" width=60%/> | 
 
 Spring `potential energy` can be put  into the work-energy theorem, which then reads
 
