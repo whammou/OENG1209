@@ -28,7 +28,7 @@ $$\Delta \theta = \theta_f - \theta_i$$
 
 $$\omega_{av} = \frac{\theta_f - \theta_i}{t_f - t_i} = \frac{\Delta \theta}{\Delta t}$$
 
-* If we let the time interval \Delta t become shorter and shorter, we are averaging over smaller and smaller time intervals, then the average angular velocity becomes the `instataneous angular velocity`
+* If we let the time interval $\Delta t$ become shorter and shorter, we are averaging over smaller and smaller time intervals, then the average angular velocity becomes the `instataneous angular velocity`
 
 $$\omega = \lim_{\Delta t \to 0} \frac{\Delta \theta}{\Delta t}$$
 
