@@ -88,7 +88,7 @@ $$v_t = r \omega$$
 
 * The `tangential acceleration` of a point on a rotating object equals to the `distance` of that point from the axis of rotation multiplied by the `angular acceleration`
 
-$$\alpha_t = r \alpha$$
+$$a_t = r \alpha$$
 
 
 ## Centripetal Acceleration
@@ -127,8 +127,8 @@ $$a_c  = \frac{v^2}{r} \text{ and } a_c = \frac{r^2 \omega^2}{r} = r \omega^2$$
 ### Varying Speed
 
 * When an object moves in a circle but is _speeding up_  or _slowing down_
-  * A "tangential component" of acceleration is also present
-  * This "tangential component" and the `centripetal components` of acceleration are _perpendicular_ to each other
+  * A `tangential component` of acceleration is also present
+  * This `tangential component` and the `centripetal components` of acceleration are _perpendicular_ to each other
 
 $$a = \sqrt{a^2_t + a^2_c}$$
 
