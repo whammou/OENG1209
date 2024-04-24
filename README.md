@@ -34,7 +34,7 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 
 * Chapter 1, 2 in [University Physics (OpenStax)](https://openstax.org/books/university-physics-volume-1/pages/1-introduction)
 
-* Chapter 4 in [Physics for Scientists and Engineers with Modern Physics](https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=4787791&ppg=113)
+* Chapter 4 in [Physics for Scientists and Engineers with Modern Physics](https://mega.nz/file/PXZWyTyD#p8mhzYLlFb0CkpF5VavrTKcvue1cGq3QzMREXYjrtlc)
 
 ## Assessments
 |  Date      |    Details       |  Due   	|
