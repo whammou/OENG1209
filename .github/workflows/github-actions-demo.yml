@@ -26,7 +26,7 @@ jobs:
       - name: embedding readme
         uses: tokusumi/markdown-embed-code@v1.0.0
         with:
-          markdown: "README.md"
+          markdown: "exam2/README.md"
           token: ${{ secrets.GITHUB_TOKEN }}
           message: "auto commit for embedding"
           no_change: "No change on Readme."
