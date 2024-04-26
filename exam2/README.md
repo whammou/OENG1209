@@ -22,6 +22,10 @@ At 40s from acceleration how many cycle has the car completed and find its total
   <IMG src="./assets/12.png" alt="q1b" width=100%/>
 </p>
 
+```python:./file.py
+
+```
+
 ### Question 2
 
 > A skier starts from rest at the top of a frictionless incline of height 20 m (at point A) as shown in the figure. At the bottom of the incline, the skier encounters a horizontal surface where the coefficient of kinetic friction between the skis and snow is 0.3. The mass of the skier is 80 Kg. Neglect air resistance.
