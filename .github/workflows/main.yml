@@ -6,7 +6,7 @@
     # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
     token: {{ secrets.GITHUB_TOKEN }}
     # Target markdown file path.
-    markdown: "exam2/README.md"
+    markdown: "README.md"
     # Commit message for action.
     message: # optional, default is Embedding code into Markdown
     # Issue comment at no changed
