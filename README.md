@@ -47,3 +47,5 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 
 ```lang:external/graph.py
 ```
+https://github.com/whammou/OENG1209/blob/f9d5410c520beaa9d8eef95617eaa5ab043f121c/graph.py
+
