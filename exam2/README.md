@@ -22,12 +22,8 @@ At 40s from acceleration how many cycle has the car completed and find its total
   <IMG src="./assets/12.png" alt="q1b" width=100%/>
 </p>
 
-```Python
-x = np.linspace(-5, 5, num=20)
-y = np.sqrt(x)
+```python:exam2/file.py
 
-pyl.plot(x, y)
-pyl.show()
 ```
 
 ### Question 2
