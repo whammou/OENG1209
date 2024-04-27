@@ -1,4 +1,4 @@
-- name: Markdown Embed Code From File
+name: Markdown Embed Code From File
   # You may pin to the exact commit or the version.
   # uses: tokusumi/markdown-embed-code@2a6cb05f1a8dd305961e137973cd86f4b8d32535
   uses: tokusumi/markdown-embed-code@v1.0.0
