@@ -1,0 +1,18 @@
+- name: Markdown Embed Code From File
+  # You may pin to the exact commit or the version.
+  # uses: tokusumi/markdown-embed-code@2a6cb05f1a8dd305961e137973cd86f4b8d32535
+  uses: tokusumi/markdown-embed-code@v1.0.0
+  with:
+    # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+    token: {{ secrets.GITHUB_TOKEN }}
+    # Target markdown file path.
+    markdown: "exam2/README.md"
+    # Commit message for action.
+    message: # optional, default is Embedding code into Markdown
+    # Issue comment at no changed
+    no_change: # optional, default is No changes on README!
+    # Output markdown file path. If none, override target file.
+    output: # optional, default is 
+    # No issue comment in silent mode
+    silent: # optional
+          
