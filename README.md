@@ -43,9 +43,3 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 |    2024-04-24    |     [Class Test 2](https://rmit.instructure.com/courses/135775/assignments/925209)         | due by 23:59       |
 |    2024-05-22    |     [Class Test 3](https://rmit.instructure.com/courses/135775/assignments/925210)         | due by 23:59       |
 
-## Embedded Code
-
-```lang:external/graph.py
-```
-https://github.com/whammou/OENG1209/blob/f9d5410c520beaa9d8eef95617eaa5ab043f121c/graph.py
-
