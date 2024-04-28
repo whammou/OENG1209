@@ -34,6 +34,23 @@ Calculate work done by conservative force and non-conservative force separately
   <IMG src="./assets/21.png" alt="q2a" width=100%/>
 </p>
 
+<details>
+<summary>Code</summary>
+
+[embedmd]:# (graph.py)
+```py
+import numpy as np
+import pylab as pyl
+
+x = np.linspace(-5, 5, num=20)
+y = np.sqrt(x)
+
+pyl.plot(x, y)
+pyl.show()
+```
+
+</details>
+
 ### Question 3
 
 > A car 1 with mas 1600 Kg travelling East at a speed of 25 m/s collides at an intersection with a car 2 of 2000 Kg travelling North at a speed of 20 m/s, as shown in the figure.
