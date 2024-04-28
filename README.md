@@ -45,7 +45,7 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 
 ## Embedded code
 
-```python:graph.py
+```python:exam2/graph.py
 
 ```
 
