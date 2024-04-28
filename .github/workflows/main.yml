@@ -1,0 +1,19 @@
+name: Embed code in README
+
+on: [push]
+
+jobs:
+  embed-code:
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: ${{ github.head.ref }}
+
+      - uses: cgalliva/markdown-embed-code@v1.0.1
+        with:
+          markdown: "README.md"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          message: "synchroizing README"
+          silent:false
