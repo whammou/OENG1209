@@ -5,25 +5,15 @@
 Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introduces students to the scientific principles that enable engineering applications. Key topics include:
 
 * Lecture 1 [Motions](./w1-motion1d.md): Introduction to the course and discuss and get used to motion in a straight line.
-
 * Lecture 2 [Kinematics](./w2-motion2d.md): Discuss and apply key laws of kinematics to motions. Calculate key parameters of motions: Displacement, Velocity, and Acceleration in 2 dimension.
-
 * Lecture 3 [Dynamics](./w3-dynamics.md): Draw simple free-body diagrams. Analyse resultant forces. Calculate specific action and reaction forces.
-
 * Lecture 4 [Circular Motion](./w4-circular.md): Equations of motion for rotation motion. Determine and calculate all relevant characteristics of rotation motion. Analyse dynamic characteristics of rotation motion.
-
 * Lecture 5 [Work and Energy](./w5-work.md): Analyse the applications and limitations of the key conservation laws. Analyse total momentum of a system. Apply differential version of Newton's second Law. Discuss and apply Energy conservation law.
-
 * Lecture 7 [Momentum](./w7-momentum.md): Analyse the applications and limitations of the key conservation law. Analyse total momentum of a system. Apply differential version of Newton's Second Law.
-
 * Lecture 8 [Electric Field](electric.md): Discuss and Analyse parameters of electric field. Discuss and analyse energy-based parameters of electric field. Analyse interaction between electric charges. Analyse engineering applications of electric field theory.
-
 * Lecture 9 [Magnetic Field](magnetic.md): Calculate relevant interaction between magnetic field and electric charges. Calculate key characteristics of magnetic field. Determine the impacts of electric field on magnetic field.
-
 * Lecture 10 [Electromagnetic Induction](electromagnetic.md): Discuss the key laws of electromagnetic theory. Analyse any relevant problems concerning electromagnetic field and energy.
-
 * Lecture 11 [Oscillations and Waves](oscillations.md):Analyse key parameters of mechanical and electromagnetic oscillations. Discuss the differences between waves. Analyse the propagation of electromagnetic waves. Analyse engineering applications of these theories.
-
 
 ## Lab
 
@@ -33,7 +23,6 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 ## Resources
 
 * Chapter 1, 2 in [University Physics (OpenStax)](https://openstax.org/books/university-physics-volume-1/pages/1-introduction)
-
 * Chapter 4 in [Physics for Scientists and Engineers with Modern Physics](https://mega.nz/file/PXZWyTyD#p8mhzYLlFb0CkpF5VavrTKcvue1cGq3QzMREXYjrtlc)
 
 ## Assessments
@@ -46,6 +35,14 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 ## Embedded code
 
 ```python:exam2/graph.py
+import numpy as np
+import pylab as pyl
+
+x = np.linspace(-5, 5, num=20)
+y = np.sqrt(x)
+
+pyl.plot(x, y)
+pyl.show()
 
 ```
 
