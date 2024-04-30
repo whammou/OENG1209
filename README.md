@@ -18,7 +18,9 @@ Lecture notes from OENG1209, taught by Prof. Minh Quang Tran. This course introd
 ## Lab
 
 * Kinematics - Motion in 1D \[assign\] [[1]](https://mega.nz/file/yCogBBJK#jdrRs7GpS_5rDYSjG8AOWtA-YFueTtdfPyohmByOmd0) [[2]](https://mega.nz/file/Hf4TWYoK#G7NlMUTmVPqxZqqnuAeD_ts8t5Hs9XlFZfpVPOp7Fu4)
+* Kinematics - Motion in 2D \[assign\] [[1]](https://mega.nz/file/LfhwTTAZ#qbapY_DdFoK542VTnW3tW9fsMAzqmjsOWRPuLJEcaJU0) [[2]](https://mega.nz/file/LfhwTTAZ#qbapY_DdFoK542VTnW3tW9fsMAzqmjsOWRPuLJEcaJU)
 * Dynamics - Newton's Laws of Motion \[assign\] [[1]](https://mega.nz/file/KPgmSRKR#h3xvo33fyEYLXGjty5jDsQZNJi9TbEafDYEO7hrZ5wU) [[2]](https://mega.nz/file/6eZkkDjK#2PZRUROtz5ByElMDxuNRk0jmCNNT77cnnIXy2Y4jPd4)
+* Circular Motion - Motion in circular paths \[assign\] [[1]](https://mega.nz/file/zXIAAZzJ#Xewgtcowh-kMo0MO6A4YNUt07ak8yV0an9869CeUHss) [[2]](https://mega.nz/file/XK5kHQpB#IbjB4X42M-39T1G5ieqaCLjQK2ZhFKFhpDyIzEeopEg) [[work]](./lab4-circular.md)
 
 ## Resources
 
