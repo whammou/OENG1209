@@ -24,21 +24,21 @@ $$\Delta \theta = \theta_f - \theta_i$$
 
 ## Angular Velocity (Speed)
 
-* The `average angular velocity` is the average rate of change of the angular displacement 
+The `average angular velocity` is the average rate of change of the angular displacement 
 
 $$\omega_{av} = \frac{\theta_f - \theta_i}{t_f - t_i} = \frac{\Delta \theta}{\Delta t}$$
 
-* If we let the time interval $\Delta t$ become shorter and shorter, we are averaging over smaller and smaller time intervals, then the average angular velocity becomes the `instataneous angular velocity`
+If we let the time interval $\Delta t$ become shorter and shorter, we are averaging over smaller and smaller time intervals, then the average angular velocity becomes the `instataneous angular velocity`
 
 $$\omega = \lim_{\Delta t \to 0} \frac{\Delta \theta}{\Delta t}$$
 
 ## Angular Acceleration
 
-* An object's `sverage acceleration` during the time interval is the change in its `angular speed` divided by time interval
+An object's `sverage acceleration` during the time interval is the change in its `angular speed` divided by time interval
 
 $$\alpha_{av} = \frac{\omega_f - \omega_i}{t_f - t_i} = \frac{\Delta \omega}{\Delta t}$$
 
-* The `instataneous angular acceleration`  is the limit of the average angular acceleration as the time interval approaches zero
+The `instataneous angular acceleration`  is the limit of the average angular acceleration as the time interval approaches zero
 
 $$\alpha = \lim_{\Delta t \to 0}\frac{\Delta \omega}{\Delta t}$$
 
