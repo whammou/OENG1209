@@ -8,15 +8,15 @@
 
 $$\mathcal{P_x} = m \mathcal{v_x} \text{ and } \mathcal{P_y} = m  \mathcal{v_y}$$
 
-* __Linear momentum__ of an object of mass $m$ is defined as
+__Linear momentum__ of an object of mass $m$ is defined as
 
 $$\vec{P} = m \vec{v}$$
 
-* __Newton's second low and momentum__
+__Newton's second low and momentum__
 
   $$\vec{F_{net}} = m \vec{a} = m \frac{\Delta \vec{v}}{\Delta t} = \frac{\Delta (m \vec{v})}{\Delta t}$$
 
-  * Thus $\vec{F_{net}} = \frac{\Delta \vec{p}}{\Delta t}$ 
+Thus $\vec{F_{net}} = \frac{\Delta \vec{p}}{\Delta t}$ 
 
 #### Conservation of Momentum
 
@@ -30,7 +30,7 @@ $$\bf{m_1 \vec{V_{1i}} + m_2 \vec{V_{2i}} = m_1 \vec{V_{1 \mathord{\mathit{f}}}}
 
 ### Impulse
 
-* __Impulse__ of a force delivered to an object is equal to the `product` of the force and the `time interval` during which the force act
+__Impulse__ of a force delivered to an object is equal to the `product` of the force and the `time interval` during which the force act
 
   $$\vec{I} = \vec{F} \Delta t$$
 

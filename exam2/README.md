@@ -6,6 +6,10 @@
 
 > A racetrack has $\theta = 350$ banked curves with the maximum radius of 320 m as shown in the below figure. If the car negotiates the curve too slowly, it tends to slip down the incline of the turn, whereas if it is going too fast, it may begin to slide up the incline. The car mass is 1000 Kg.
 
+<p align="center">
+  <IMG src="./assets/q11.png" alt="q1" width=40%/>
+</p>
+
 #### i. Section a
 
 Find the speed of the car on this banked so the car will not tend to slop down or slide up the incline

@@ -44,9 +44,9 @@ During this same time the spring has done exactly the same amount of work, but t
   <IMG src="./assets/w5-work/15.jpg" alt="graph" width=50%/>
 </p>
 
-$$F_app = -(- kx) = kx$$
+$$F_{app} = -(- kx) = kx$$
 
-$$W_{F_app} = \frac{1}{2} kx^2_max$$
+$$W_{F_{app}} = \frac{1}{2} kx^2_{max}$$
 
 ## Kinetic Energy and the Work-Energy Theorem
 
