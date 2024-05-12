@@ -1,6 +1,5 @@
 # Lab 8 - Electric Field
 
-
 > Visit [Practice Problems](https://mega.nz/file/CPgkARpb#ncCB2Q8Gk_xJ6zNJWpimPZqv_jF_3iY7F3qGo3K7OhE) for more details
 
 ## Practice Problem 1
