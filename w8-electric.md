@@ -1,4 +1,4 @@
-# Lecture 9 - Electric Field
+# Lecture 8 - Electric Field
 
 ## Electric Charge
 
